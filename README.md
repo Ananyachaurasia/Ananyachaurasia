@@ -1,16 +1,32 @@
-<div>
-
 <div align="center">
 
-# Hi, I'm Ananya Chaurasia 👋
+# Hi 👋, I'm Ananya
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Aspiring+ML+Engineer" alt="Aspiring ML Engineer" />
+### Aspiring ML Engineer
 
-[GitHub](https://github.com/YOUR-GITHUB) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:ananyachaurasia355@gmail.com)
+<sub>Building reliable ML systems with clean data pipelines and solid fundamentals.</sub>
 
 </div>
 
 <br>
+
+### 📝 About Me
+
+> I'm an AI/ML engineering student at VIT Bhopal, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since.
+
+<br>
+
+### 🔗 Connect
+
+<p align="left">
+<a href="https://github.com/YOUR-GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>
+<a href="mailto:ananyachaurasia355@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
+</p>
+
+<br>
+
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -19,7 +35,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28"/>
 
-<br><br>
+<br>
 
 **Libraries/Framework**
 
@@ -34,7 +50,7 @@
 <img src="https://img.shields.io/badge/DATA_PROCESSING-6A5ACD?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/DATA_VISUALIZATION-6A5ACD?style=for-the-badge" height="28"/>
 
-<br><br>
+<br>
 
 **Developer Tools**
 
@@ -45,26 +61,23 @@
 <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="28"/>
 
-<br><br>
+<br>
 
----
-
-### 🔹 About
-
-> I'm an AI/ML engineering student at VIT Bhopal, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since.
-
----
-
-### 🔹 Experience
+### 💼 Experience
 
 <img src="https://img.shields.io/badge/AI%20Intern-VoltQ-6A5ACD?style=for-the-badge" height="26"/> <img src="https://img.shields.io/badge/Gurugram-Remote-2E2E2E?style=for-the-badge" height="26"/>
 
 Built a Hindi voice AI assistant for a local deployment of Twenty CRM — integrating Groq Whisper for speech-to-text, a locally hosted LLaMA 3.2 model via Ollama for response generation, and Microsoft Edge TTS for text-to-speech. Built a FastAPI backend and integrated it into Twenty CRM's React frontend.
 
----
+<br>
 
-### 🔹 Reach Me
+### 📊 GitHub Stats
 
-<a href="mailto:ananyachaurasia355@gmail.com"><img src="https://img.shields.io/badge/Email-ananyachaurasia355%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&theme=dark&hide_border=true" height="165"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=react-dark&hide_border=true" width="90%"/>
+</p>
