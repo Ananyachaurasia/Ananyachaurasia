@@ -1,13 +1,20 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananya" alt="Hi, I'm Ananya" />
 <br/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=400&height=40&lines=Aspiring+ML+Engineer" alt="Aspiring ML Engineer" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
+
 </div>
 
 ### 📝 About Me
 
 > I'm an AI/ML engineering student at VIT Bhopal, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since.
+>
+> I like understanding how systems work end to end — from raw, messy data to a trained model to something people can actually use. Most of my projects start with a question I'm curious about, and I work through data cleaning, feature engineering, model building, and evaluation until I have something that actually works, not just something that looks good on paper.
+>
+> I've also picked up experience on the applied side, building backend services and integrating AI models into real products rather than keeping them confined to notebooks. I enjoy the mix of research-style problem solving and the practical engineering it takes to ship something reliable.
 
 <br>
 
@@ -71,7 +78,7 @@
 
 ### 💼 Experience
 
-<img src="https://img.shields.io/badge/AI%20Intern-VoltQ-6A5ACD?style=for-the-badge" height="26"/> <img src="https://img.shields.io/badge/Gurugram-Remote-2E2E2E?style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/AI%20Intern-VoltQ-6A5ACD?style=for-the-badge" height="26"/>
 
 Built a Hindi voice AI assistant for a local deployment of Twenty CRM — integrating Groq Whisper for speech-to-text, a locally hosted LLaMA 3.2 model via Ollama for response generation, and Microsoft Edge TTS for text-to-speech. Built a FastAPI backend and integrated it into Twenty CRM's React frontend.
 
