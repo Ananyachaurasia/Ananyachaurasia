@@ -1,13 +1,8 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananya" alt="Hi, I'm Ananya" />
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=400&height=40&lines=Aspiring+ML+Engineer" alt="Aspiring ML Engineer" />
-
-<sub>Building reliable ML systems with clean data pipelines and solid fundamentals.</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
-
 </div>
 
 ### 📝 About Me
