@@ -6,9 +6,11 @@
 
 <sub>Building reliable ML systems with clean data pipelines and solid fundamentals.</sub>
 
-</div>
-
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" width="100%"/>
+
+</div>
 
 ### 📝 About Me
 
@@ -25,6 +27,25 @@
 </p>
 
 <br>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=YOUR-GITHUB&theme=darkhub&no-frame=true&margin-w=8&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=react-dark&hide_border=true" width="90%"/>
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -61,7 +82,7 @@
 <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="28"/>
 
-<br>
+---
 
 ### 💼 Experience
 
@@ -71,13 +92,4 @@ Built a Hindi voice AI assistant for a local deployment of Twenty CRM — integr
 
 <br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=react-dark&hide_border=true" width="90%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%"/>
