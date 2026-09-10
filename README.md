@@ -1,4 +1,3 @@
-
 <div>
 
 <div align="center">
@@ -48,17 +47,24 @@
 
 <br><br>
 
+---
+
 ### 🔹 About
 
-I'm an AI/ML engineering student at VIT Bhopal, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since.
+> I'm an AI/ML engineering student at VIT Bhopal, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since.
+
+---
 
 ### 🔹 Experience
 
-**AI Intern — VoltQ** (Gurugram, Remote)
+<img src="https://img.shields.io/badge/AI%20Intern-VoltQ-6A5ACD?style=for-the-badge" height="26"/> <img src="https://img.shields.io/badge/Gurugram-Remote-2E2E2E?style=for-the-badge" height="26"/>
+
 Built a Hindi voice AI assistant for a local deployment of Twenty CRM — integrating Groq Whisper for speech-to-text, a locally hosted LLaMA 3.2 model via Ollama for response generation, and Microsoft Edge TTS for text-to-speech. Built a FastAPI backend and integrated it into Twenty CRM's React frontend.
+
+---
 
 ### 🔹 Reach Me
 
-📫 ananyachaurasia355@gmail.com
+<a href="mailto:ananyachaurasia355@gmail.com"><img src="https://img.shields.io/badge/Email-ananyachaurasia355%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26"/></a>
 
 </div>
