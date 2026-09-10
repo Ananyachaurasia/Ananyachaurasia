@@ -10,11 +10,7 @@
 
 ### 📝 About Me
 
-> I'm an AI/ML engineering student at VIT Bhopal, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since.
->
-> I like understanding how systems work end to end — from raw, messy data to a trained model to something people can actually use. Most of my projects start with a question I'm curious about, and I work through data cleaning, feature engineering, model building, and evaluation until I have something that actually works, not just something that looks good on paper.
->
-> I've also picked up experience on the applied side, building backend services and integrating AI models into real products rather than keeping them confined to notebooks. I enjoy the mix of research-style problem solving and the practical engineering it takes to ship something reliable.
+> I'm an AI/ML engineering student, always chasing the next new technology to learn and apply to real-world problems. Somewhere along my engineering journey, machine learning pulled me in — and I haven't looked back since. I enjoy working through problems end to end, from data to a working solution.
 
 <br>
 
@@ -80,7 +76,11 @@
 
 <img src="https://img.shields.io/badge/AI%20Intern-VoltQ-6A5ACD?style=for-the-badge" height="26"/>
 
-Built a Hindi voice AI assistant for a local deployment of Twenty CRM — integrating Groq Whisper for speech-to-text, a locally hosted LLaMA 3.2 model via Ollama for response generation, and Microsoft Edge TTS for text-to-speech. Built a FastAPI backend and integrated it into Twenty CRM's React frontend.
+Built a Hindi voice AI assistant for a local deployment of Twenty CRM, enabling end-to-end voice interaction inside the CRM itself.
+
+- Integrated Groq Whisper API for speech-to-text, a locally hosted LLaMA 3.2 model via Ollama for response generation, and Microsoft Edge TTS for text-to-speech
+- Built a FastAPI backend to tie the speech-to-text, LLM, and text-to-speech pipeline together
+- Integrated the voice pipeline into Twenty CRM's React frontend through reusable UI components, so voice input worked natively within the existing product
 
 <br>
 
